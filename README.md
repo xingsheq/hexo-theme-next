@@ -1,4 +1,4 @@
-# NexT
+# NexT add test
 
 NexT is a high quality elegant [Hexo](http://hexo.io) theme. It is crafted from scratch, with love.
 
@@ -314,7 +314,7 @@ Contribution is welcome, feel free to open an issue and fork. Waiting for your p
 [browser-url]: https://www.browserstack.com
 
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
-[gitter-url]: https://gitter.im/iissnan/hexo-theme-next?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[gitter-url]: https://gitter.im/iissnan/hexo-theme-next?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge
 
 [travis-image]: https://travis-ci.org/iissnan/hexo-theme-next.svg?branch=master
 [travis-url]: https://travis-ci.org/iissnan/hexo-theme-next?branch=master "Travis CI"
@@ -331,5 +331,5 @@ Contribution is welcome, feel free to open an issue and fork. Waiting for your p
 [curl-tar-image]: https://img.shields.io/badge/install%20with%20-curl%20%7C%20tar-blue.svg
 [curl-tar-wget-image]: https://img.shields.io/badge/install%20with%20-curl%20%7C%20tar%20%7C%20wget-blue.svg
 [git-url]: http://lmgtfy.com/?q=linux+git+install
-[curl-tar-url]: http://lmgtfy.com/?q=linux+curl+tar+install 
+[curl-tar-url]: http://lmgtfy.com/?q=linux+curl+tar+install
 [curl-tar-wget-url]: http://lmgtfy.com/?q=linux+curl+tar+wget+install
